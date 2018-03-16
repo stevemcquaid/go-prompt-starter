@@ -1,7 +1,7 @@
 # go-prompt-starter
 Dockerized go-prompt concept
 
-#### Dockerized starter code from: https://github.com/c-bata/kube-prompt
+#### Dockerized starter code from: https://github.com/c-bata/go-prompt
 
 # Usage
 `make run`
